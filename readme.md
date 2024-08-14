@@ -10,13 +10,6 @@ Models Used:
     Random Forest
     Gradient Boosting
 
-Model Performance Comparison:
-                 Model  Training Accuracy  Test Accuracy       AUC
-0  Logistic Regression           0.958069       0.944162  0.979489
-1        Decision Tree           1.000000       0.908629  0.908576
-2        Random Forest           1.000000       0.918782  0.980468
-3    Gradient Boosting           1.000000       0.923858  0.983199
-
 Best Estimator: Logistic Regression
 
 Why Logistic Regression?
