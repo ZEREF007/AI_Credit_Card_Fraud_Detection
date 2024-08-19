@@ -4,7 +4,7 @@ What Are We Doing?
 
 We are evaluating various machine learning models to detect fraudulent credit card transactions.
 
-Models Used:
+Models Used
     Logistic Regression
     Decision Tree
     Random Forest
